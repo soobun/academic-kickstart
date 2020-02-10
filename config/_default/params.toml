@@ -90,7 +90,7 @@ address = {street = "3663 North Zhongshan Rd.", city = "Putuo District", region 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.2260", longitude = "121.4050"}
+coordinates = {latitude = "31.2279", longitude = "121.4004"}
 
 # Directions for visitors to locate you.
 directions = "Enter Computer Building and take the stairs to Office 210 on Floor 2"
@@ -127,7 +127,7 @@ date_format = "Jan 2006"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "zh"
+address_format = "en-us"
 
 ############################
 ## Advanced
