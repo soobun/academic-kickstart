@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2019-09-01"
   date_end = ""
-  description = """
+  description = 
+  """
   Computing Center
   College of Data Science & Engineering
   Tutor:Associate Professor ZHENG Kai
@@ -37,7 +38,8 @@ date_format = "Jan 2006"
   location = "Tianjin"
   date_start = "2015-09-01"
   date_end = "2019-06-20"
-  description = """
+  description = 
+  """
   College of Computer & Information Engineering
   """
 
