@@ -26,9 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = 
   """
-  Computing Center
-  College of Data Science & Engineering
-  Tutor:Associate Professor ZHENG Kai
+  * Computing Center
+  * College of Data Science & Engineering
+  * Tutor:Associate Professor ZHENG Kai
   """
 
 [[experience]]
