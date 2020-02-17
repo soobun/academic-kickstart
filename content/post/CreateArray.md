@@ -1,8 +1,8 @@
 ---
 title: CreateArray
 summary: 在Numpy中初始化一个数组
-date: "2020-02-17T16:30:00Z"
-tags: ["Numpy"]
+date: "2020-02-17T00:00:00Z"
+
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
