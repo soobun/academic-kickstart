@@ -16,11 +16,15 @@ header:
 `arr=np.eye(3)`
 
 `arr.ndim` 维度
-`arr.shape` 形状
-`arr.size` 元素数量
-`arr.dtype` 元素数据类型
-`arr.itemsize` 单个元素所占字节
-`arr.nbytes` 数组占用的总字节
 
+`arr.shape` 形状
+
+`arr.size` 元素数量
+
+`arr.dtype` 元素数据类型
+
+`arr.itemsize` 单个元素所占字节
+
+`arr.nbytes` 数组占用的总字节
 
 
