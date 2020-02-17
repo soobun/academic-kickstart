@@ -15,7 +15,7 @@ role: Postgraduate Student
 # Organizations/Affiliations
 organizations:
 - name: East China Normal University
-  url: "www.ecnu.edu.cn"
+  url: "https://www.ecnu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Natural language processing and Computer education.
