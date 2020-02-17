@@ -24,7 +24,10 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2019-09-01"
   date_end = ""
-  description = """College of Data Science & Engineering\nTutor: Associate Professor ZHENG Kai"""
+  description = """
+  College of Data Science & Engineering\n
+  Tutor: Associate Professor ZHENG Kai
+  """
 
 [[experience]]
   title = "Undergraduate"
