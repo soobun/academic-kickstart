@@ -1,5 +1,5 @@
 ---
-title: CreateArray
+title: 1.创建数组
 summary: 在Numpy中初始化一个数组
 date: "2020-02-17T00:00:00Z"
 tags: ["Numpy"]
