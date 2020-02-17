@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2019-09-01"
   date_end = ""
-  description = 
-  """
-  College of Data Science & Engineering
-  """
+  description = """College of Data Science & Engineering\nTutor: Associate Professor ZHENG Kai"""
 
 [[experience]]
   title = "Undergraduate"
@@ -36,10 +33,7 @@ date_format = "Jan 2006"
   location = "Tianjin"
   date_start = "2015-09-01"
   date_end = "2019-06-20"
-  description = 
-  """
-  College of Computer & Information Engineering
-  """
+  description = "College of Computer & Information Engineering"
 
 [[experience]]
   title = "Senior High School"
