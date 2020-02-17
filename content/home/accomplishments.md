@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Teaching&shy;Courses"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "TA"
+  organization_url = ""
+  title = "College Computer - The Basic of Digital Media"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = "2019-12-31"
+  description = "Public Obligatory Course for Undergraduate Arts Students."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "TA"
+  organization_url = ""
+  title = "College Computer - The Basic of Programming"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-01"
+  date_end = "2019-12-31"
+  description = "Public Obligatory Course for Undergraduate Science Students."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "TA"
+  organization_url = ""
+  title = "The Technology & Application of Digital Media"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = "2020-07-31"
+  description = "Public Obligatory Course for Undergraduate Arts Students."
+  
 
 +++
