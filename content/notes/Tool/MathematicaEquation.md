@@ -1,6 +1,6 @@
 ---
 title: Mathematica 解方程组和不等式
-summary: 
+summary: Mathematica 解方程组和不等式
 date: "2020-02-20T18:09:00Z"
 tags: ["Math","Tool"]
 reading_time: false  # Show estimated reading time?

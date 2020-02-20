@@ -1,6 +1,6 @@
 ---
 title: Mathematica 初步
-summary: 
+summary: Mathematica 初步
 date: "2020-02-20T17:00:00Z"
 tags: ["Math","Tool"]
 reading_time: false  # Show estimated reading time?
