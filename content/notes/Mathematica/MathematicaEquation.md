@@ -1,7 +1,7 @@
 ---
-title: Mathematica解方程组和不等式
-summary: Mathematica解方程组和不等式
-date: "2020-02-20T18:09:00Z"
+title: 解方程组和不等式
+summary: 解方程组和不等式
+date: "2020-02-20T00:00:00Z"
 tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,6 +13,7 @@ header:
   image: ""
 ---
 
+## 解方程组和不等式
 ```mathematica
 Solve[x^2-y^3==1,x]
 >>>{{x -> -Sqrt[1 + y^3]}, {x -> Sqrt[1 + y^3]}}
