@@ -1,5 +1,5 @@
 ---
-title: 不可能Mathematica初步
+title: Mathematica初步
 summary: 不可能Mathematica初步
 date: "2020-02-20T00:00:00Z"
 tags: ["Mathematica"]
