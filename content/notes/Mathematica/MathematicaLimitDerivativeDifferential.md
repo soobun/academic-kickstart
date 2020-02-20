@@ -2,7 +2,7 @@
 title: Mathematica求极限、导数和微分
 summary: Mathematica求极限、导数和微分
 date: "2020-02-20T18:15:00Z"
-tags: ["Math","Tool"]
+tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?

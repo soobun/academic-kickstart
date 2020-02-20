@@ -2,7 +2,7 @@
 title: Mathematica绘图
 summary: Mathematica绘图
 date: "2020-02-20T17:50:00Z"
-tags: ["Math","Tool"]
+tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
