@@ -1,7 +1,7 @@
 ---
 title: 求极限、导数和微分
 summary: 求极限、导数和微分
-date: "2020-02-20T18:15:00Z"
+date: "2020-02-20T00:00:00Z"
 tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
