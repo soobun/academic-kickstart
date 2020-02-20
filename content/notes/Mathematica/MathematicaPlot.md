@@ -1,6 +1,6 @@
 ---
-title: Mathematica绘图
-summary: Mathematica绘图
+title: 绘图
+summary: 绘图
 date: "2020-02-20T17:50:00Z"
 tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
