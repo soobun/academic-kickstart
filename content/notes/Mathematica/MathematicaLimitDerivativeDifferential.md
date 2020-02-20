@@ -1,6 +1,6 @@
 ---
-title: Mathematica 求极限、导数和微分
-summary: Mathematica 求极限、导数和微分
+title: Mathematica求极限、导数和微分
+summary: Mathematica求极限、导数和微分
 date: "2020-02-20T18:15:00Z"
 tags: ["Math","Tool"]
 reading_time: false  # Show estimated reading time?

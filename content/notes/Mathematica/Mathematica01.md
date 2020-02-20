@@ -1,6 +1,6 @@
 ---
-title: Mathematica 初步
-summary: Mathematica 初步
+title: Mathematica初步
+summary: Mathematica初步
 date: "2020-02-20T17:00:00Z"
 tags: ["Mathematica"]
 reading_time: false  # Show estimated reading time?
