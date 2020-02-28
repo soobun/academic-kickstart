@@ -21,9 +21,17 @@ header:
 
 元素全是0的数组
 
+### zeros_like
+
+形状与参数数组相同
+
 ## ones
 
 元素全是1的数组
+
+### ones_like
+
+形状与参数数组相同
 
 ## eye
 
@@ -53,7 +61,7 @@ eye(N, M=None, k=0, dtype=float, order='C')
 np.arange(start, stop, step, dtype)
 ```
 
-## full
+## full/full_like
 
 生成各个元素相同的数组
 
