@@ -29,7 +29,7 @@ plt.show()
 ```
 
 
-![png](./Matplotlib_0_0.png)
+{{< figure library="true" src="Matplotlib_Pie.png" title="Pie" lightbox="true" >}}
 
 
 
@@ -40,13 +40,9 @@ plt.hist(a,150,normed=0,histtype='stepfilled',alpha=0.75)
 plt.show()
 ```
 
-    /usr/local/lib/python3.6/dist-packages/ipykernel_launcher.py:3: MatplotlibDeprecationWarning: 
-    The 'normed' kwarg was deprecated in Matplotlib 2.1 and will be removed in 3.1. Use 'density' instead.
-      This is separate from the ipykernel package so we can avoid doing imports until
 
 
-
-![png](./Matplotlib_1_1.png)
+{{< figure library="true" src="Matplotlib_Hist.png" title="Histogram" lightbox="true" >}}
 
 
 
@@ -56,5 +52,5 @@ plt.show()
 ```
 
 
-![png](./Matplotlib_2_0.png)
+{{< figure library="true" src="Matplotlib_Scatter.png" title="Scatter Point" lightbox="true" >}}
 

@@ -17,8 +17,10 @@ header:
 
 语法`Limit[expr,x->x0]` 
 参数`Assumptions` 设定参数满足条件
-       `Direction`    设置变量变化方向
-        `Analytic`     设置是否以解析式计算
+
+​       `Direction`    设置变量变化方向
+
+​       `Analytic`     设置是否以解析式计算
 
 ```mathematica
 Limit[a^(1/n), n -> \[Infinity]]

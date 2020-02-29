@@ -29,6 +29,6 @@ header:
 
 `Plot3D[x*y*(x^2-y^2),{x,-10,10},{y,-10,10}]`
 
-{{< figure library="true" src="Plot3D.jpg" title="An example" lightbox="true" >}}
+{{< figure library="true" src="Plot3D.jpg" title="An example of using Plot3D" lightbox="true" >}}
 
 ### ParametricPlot3D 绘制空间曲线、曲面参数方程对应空间曲线与曲面

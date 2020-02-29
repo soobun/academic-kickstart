@@ -16,6 +16,7 @@ header:
 ## 连续图像
 
 保存PNG图像：`plt.savefig('test', dpi=600)`
+
 限定坐标轴范围：`plt.axis([xmin,xmax,ymin,ymax])`
 
 ### 曲线风格（linestyle）
@@ -42,6 +43,7 @@ header:
 | x       | 叉号              |
 
 标记点颜色`markerfacecolor`
+
 标记点尺寸`markersize`
 
 ### 复杂子图
