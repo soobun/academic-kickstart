@@ -1,7 +1,7 @@
 ---
 title: Linux基础
 summary: Linux常用的命令
-date: "2020-04-17T14:10:00Z"
+date: "2020-04-17T00:00:00Z"
 tags: ["Linux"]
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,7 +13,7 @@ header:
   image: ""
 ---
 
-## 关机与重启
+##关机与重启
 `shutdown` 关机
 
 	`-h` 延迟（`now` 立刻；`1` 1分钟）
