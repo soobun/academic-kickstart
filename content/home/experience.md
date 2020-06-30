@@ -25,8 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = ""
   description = """
-  College of Data Science & Engineering\n
-  Tutor: Associate Professor ZHENG Kai
+  School of Data Science and Engineering\n
+  Supervisor: Dr.Kai ZHENG
   """
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   location = "Tianjin"
   date_start = "2015-09-01"
   date_end = "2019-06-20"
-  description = "College of Computer & Information Engineering"
+  description = "College of Computer and Information Engineering"
 
 [[experience]]
   title = "Senior High School"

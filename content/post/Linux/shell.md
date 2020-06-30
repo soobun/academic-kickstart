@@ -119,7 +119,7 @@ header:
 
 示例
 
-```shell
+```sh
 file="/var/www/runoob/test.sh"
 if [ -r $file ]
 then

@@ -21,15 +21,15 @@ organizations:
 bio: My research interests include Natural language processing and Computer education.
 
 interests:
-- Natural language processing
+- Recommended System
 - Computer education
 
 education:
   courses:
-  - course: MEng in Computer Technology
+  - course: M.Eng. in Computer Technology
     institution: East China Normal University
     year: 2019-2022
-  - course: BEng in Computer Science and Technology
+  - course: B.Eng. in Computer Science and Technology
     institution: Tianjin Normal University
     year: 2015-2019
 

@@ -24,6 +24,26 @@ date_format = "Jan 2006"
   title = "College Computer - The Basic of Digital Media"
   url = ""
   certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2020-12-31"
+  description = "Public Obligatory Course for Undergraduate Arts Students."
+
+[[item]]
+  organization = "TA"
+  organization_url = ""
+  title = "The Technology & Application of Digital Media"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-03-01"
+  date_end = "2020-06-30"
+  description = "Public Obligatory Course for Undergraduate Arts Students."
+
+[[item]]
+  organization = "TA"
+  organization_url = ""
+  title = "College Computer - The Basic of Digital Media"
+  url = ""
+  certificate_url = ""
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = "Public Obligatory Course for Undergraduate Arts Students."
@@ -38,15 +58,7 @@ date_format = "Jan 2006"
   date_end = "2019-12-31"
   description = "Public Obligatory Course for Undergraduate Science Students."
   
-[[item]]
-  organization = "TA"
-  organization_url = ""
-  title = "The Technology & Application of Digital Media"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-03-01"
-  date_end = "2020-07-31"
-  description = "Public Obligatory Course for Undergraduate Arts Students."
+
   
 
 +++
