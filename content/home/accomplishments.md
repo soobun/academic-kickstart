@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2020-12-31"
   description = "Public Obligatory Course for Undergraduate Arts Students."
+  
+  [[item]]
+  organization = "TA"
+  organization_url = ""
+  title = "Introduction to Data Science and Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  date_end = "2020-12-31"
+  description = "Subject Basic Course for Undergraduate Students of DaSE."
 
 [[item]]
   organization = "TA"
@@ -57,8 +67,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-01"
   date_end = "2019-12-31"
   description = "Public Obligatory Course for Undergraduate Science Students."
-  
 
-  
+
 
 +++

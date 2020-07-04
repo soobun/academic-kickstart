@@ -22,7 +22,7 @@ bio: My research interests include Natural language processing and Computer educ
 
 interests:
 - Recommended System
-- Computer education
+- Computer Education
 
 education:
   courses:
