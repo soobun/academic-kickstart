@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ecnu.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Natural language processing and Computer education.
+bio: My research interests include Recommended system and Computer education.
 
 interests:
 - Recommended System
